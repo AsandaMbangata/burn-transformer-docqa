@@ -1,0 +1,1 @@
+﻿{"version":"1.0","model":{"type":"WordPiece","vocab":{"[PAD]":0,"[UNK]":1,"[CLS]":2,"[SEP]":3,"the":10,"a":11,"is":12,"in":13,"to":14,"of":15,"2024":100,"2025":101,"2026":102,"Graduation":103,"Committee":104,"Term":105}},"tokenizer":{"type":"Bert"}}
